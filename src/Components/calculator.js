@@ -137,6 +137,8 @@ function Calculator() {
         />
         <Button clickAction={handleOprator} val={"."} oprator={true} />
       </div>
+
+      {/* end row  */}
     </div>
   );
 }
